@@ -1,1 +1,27 @@
+DevOps:
 
+Roadmaps(by Most: one year ago): 
+a. learn to use linux. for starters bash (Most advices i spend about 3-weeks working on this. 
+b. Networking concepts: Mosh recommends wireshark and dedicating the next 2-weeks to that.
+c. Programming languages ( such as Python, R and Go). Most recommends Python with 4 weeks but i'll be reducing mine to 2 weeks as i have prior knowledge.
+d. Cloud Providers ( such as AWS, Azure, Google Cloud Platforms). Mosh recommends AWS (4 to six weeks).
+e. Containerization ( docker) 4 weeks.
+f. Continous Integration / Deployment or CI/CD. Most recomends (Jenkins as tool to learn) 4 weeks.
+g. Orchestration and Management (kubenetes). 4-six weeks.
+h. Networking and Infrastructure Services. 
+i. Configuration Management. 3-4weeks
+j. Infrastructure as code or Iac. (Terraform) 3-4 weeks
+k. Monitoring and Logging (prometheus) 3-4 weeks
+
+estimated Duration: 10-14 months
+
+
+Terminal Knowledge:
+a. Process Monitoring: Process Monitoring is the continous observation and analysis of IT processes within an IT organisation to ensure optimal performance, efficiency and compliance.
+It involves tracking key metrics, resource utilization and behaviour of individual processes or applications running on a system.
+
+
+Process Monitoring involves tools that provide real-time data on CPU Usage, Memory Consumption, I/O Operations and thread activity. Often include features such as:
+a. Alerting
+b. logging
+c. visualisation of process data.
