@@ -1,19 +1,75 @@
 DevOps:
-
 Roadmaps(by Most: one year ago): 
 a. learn to use linux. for starters bash (Most advices i spend about 3-weeks working on this. 
-b. Networking concepts: Mosh recommends wireshark and dedicating the next 2-weeks to that.
-c. Programming languages ( such as Python, R and Go). Most recommends Python with 4 weeks but i'll be reducing mine to 2 weeks as i have prior knowledge.
-d. Cloud Providers ( such as AWS, Azure, Google Cloud Platforms). Mosh recommends AWS (4 to six weeks).
-e. Containerization ( docker) 4 weeks.
-f. Continous Integration / Deployment or CI/CD. Most recomends (Jenkins as tool to learn) 4 weeks.
-g. Orchestration and Management (kubenetes). 4-six weeks.
-h. Networking and Infrastructure Services. 
-i. Configuration Management. 3-4weeks
-j. Infrastructure as code or Iac. (Terraform) 3-4 weeks
-k. Monitoring and Logging (prometheus) 3-4 weeks
+  * File system: ls, cp,mv,rm
+  * Permissions: chmod,chown
+  * Processes: ps, top, Kill
+  * Packages: apt, yum
 
-estimated Duration: 10-14 months
+b. Networking concepts: Mosh recommends wireshark and dedicating the next 2-weeks to that.
+  * OSI and TCP/IP models: ls, cp,mv,rm
+  * Ip addressing and subnetting
+  * DNS and DHCP
+  * HTTP, HTTPS, FTP, and SSH
+  * Firewalls and Security Groups
+  * Ping, traceroute, and netstat ( for some network troubleshooting)
+
+c. GIT:
+  * Clone, Commit, Push, and Pull
+  * Branching and Merging
+  * Resolving and merge conflicts
+  * Working with remote repositories
+
+d. Programming languages ( such as Python, R and Go). Most recommends Python with 4 weeks but i'll be reducing mine to 2 weeks as i have prior knowledge.
+  (Sticking with python, already have some experience with it).
+  * Python syntax and data structures.
+  * Modules and Packages
+  * Write and execute python scripts
+  * Work with files
+  * Handle erros 
+  * write automation scripts.
+
+e. Cloud Providers ( such as AWS, Azure, Google Cloud Platforms). Mosh recommends AWS (4 to six weeks).
+  * Launch, configure and manage virtual servers
+  * Store  manage data
+  * Manage users, groups, and roles
+  * Setup and manage isolated networks
+
+f. Containerization ( docker) 4 weeks.
+  * create Docker images
+  * Starting, Stopping and managing  Containers
+  * Write DockerFiles
+  * Run Multi-container apps using Docker Compose.
+
+g. Continous Integration / Deployment or CI/CD. Most recomends (Jenkins as tool to learn) 4 weeks.
+  * Create and Manage Jenkins Pipelines
+  * Write Jenkins Files
+  * Integrate Automated tests.
+  * Automate the build process
+  * Automate the Deployment
+
+h. Orchestration and Management (kubenetes). 4-six weeks.
+  * Overall Architecture
+  * Key Components
+  * Manage Resources
+  * Scale Applications
+  * Networking Models
+
+i. Networking and Infrastructure Services. 
+  * Configure Nginx as a reverse proxy
+  * configure it to act as  a forward proxy
+  * Caching Stratedgies
+
+j. Configuration Management. 3-4weeks
+  * Write Ansible Playbooks
+k. Infrastructure as code or Iac. (Terraform) 3-4 weeks
+l. Monitoring and Logging (prometheus) 3-4 weeks
+
+
+Tracking or Progress ( Steps completed so far):
+--------- None so far -------------
+
+Estimated Duration: 10-14 months
 
 
 Terminal Knowledge:
