@@ -1,1 +1,7 @@
+# Kata one: data( 11:42AM, August 2025)
 
+convert number to string:
+hows this done in python:
+  * we make use of the str method.
+      def string_to_number(num):
+          return str(num)
