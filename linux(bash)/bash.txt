@@ -1,0 +1,30 @@
+Bash: Bourne Again Shell
+
+
+What is Bash?
+
+A shell is a user interface for ease of use. Making easier of the user to manage the operating system, without knowing of all the inner workings and complexity of the Operating system
+
+# Basic Commands:
+a. echo --Text--: To display text passed. E.g echo Hello => Hello.
+b. cat: This displays the content of a file. Note: But in order to read a file we ought to create a file and so we did using "VIM"
+    so we type: vim textfile.txt:
+        a. followed by clicking on "i" to insert text to file. after i is clicked text is then entered.
+        b. after typing, the esc key is clicked. 
+        c. followed by :w to write and update text. 
+        d. to exit we then type :q.
+
+    -- and that's that for creating a file --
+    n:b we could write :q to make life easier. such that the file is writen and vim is exited
+
+    Now we move on to using the cat command to print the content of the file.
+    command: cat textfile.txt
+
+
+=> Step 2 ( we call it a night after this): we create a shell using the knowledge we've gathered so far
+a. first we open vim: vim shelltest.sh
+
+b. we then write shell script : echo hello world!
+c. we write and exit vim using:  :wq
+d. then we run shell with the bash command. => bash shelltest.sh
+e. code ran sucessfully

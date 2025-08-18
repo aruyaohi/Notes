@@ -1,0 +1,24 @@
+What is WSL?
+
+This is short for the Windows Subsystem for Linux. 
+
+What is it's function?
+The function of WSL is to access linux specific applications, tools and to test compatibility ( with the linux OS of course) without the need of installing linux via a virtual box ( which is quite tedious and consumes more space and processing).
+
+From it's function it can be deduced that this particular applicaition was designed for programmers who'd like to build applications that are to run on th linux OS
+on windows. so i can build linux applicaitions on windows and test to see if they'd run smoothly.
+
+
+** Fortunately for me i had installed wsl some months back for a rust project and ubuntu as the linux distro. but i have forgotten the password **
+
+so in order to regain the password, these where the steps i took:
+a. wsl -l -v: To get the label(name) of linux distro and the version
+b. wsl -d Ubuntu -u root: launch wsl as root to bypass password.
+c. passwd user_name: in this case ruyatech. and then an input appears to enter and reenter password. password has then been offically reset
+
+
+=> After password reset, i proceeded to update and upgrade linux distro(ubuntu).
+
+Next step would involve me learning bash.
+
+--- End.
